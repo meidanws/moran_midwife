@@ -1,6 +1,6 @@
 # Moran Manzur Midwife website
 
-This website made with ❤
+This website made with ❤ by Meidan Weiss
 
 ## License
 
