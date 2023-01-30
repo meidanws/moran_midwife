@@ -35,7 +35,7 @@
           id="navbarSupportedContent"
           style="direction: rtl;"
         >
-          <ul class="navbar-nav ml-auto">
+          <ul class="navbar-nav ml-auto" style="align-items: center;">
             <li class="nav-item mx-2">
               <a
                 class="nav-link"
